@@ -1,0 +1,11 @@
+/* Fontes com variáveis */
+:root {
+    --fonte-principal: 'Verdana', sans-serif;
+    --fonte-secundaria: 'Georgia', serif;
+}
+
+body {
+    font-family: var(--fonte-principal);
+}
+
+/* Restante do seu CSS */

@@ -1,0 +1,13 @@
+/* Restante do seu CSS */
+
+/* Menu de navegação vertical */
+nav {
+    width: 200px;
+    float: left;
+}
+
+/* Menu de navegação horizontal */
+nav.horizontal {
+    display: flex;
+    justify-content: space-around;
+}

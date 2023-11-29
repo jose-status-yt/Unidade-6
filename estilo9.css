@@ -1,0 +1,11 @@
+/* Fontes com variáveis */
+:root {
+    --fonte-principal: 'Arial', sans-serif;
+    --fonte-secundaria: 'Times New Roman', serif;
+}
+
+body {
+    font-family: var(--fonte-principal);
+}
+
+/* Restante do seu CSS */

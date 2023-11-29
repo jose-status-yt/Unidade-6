@@ -1,0 +1,6 @@
+/* Restante do seu CSS */
+
+/* Coleção de objetos tema em mais de 2 colunas */
+.objetos-tema {
+    column-count: 3;
+}

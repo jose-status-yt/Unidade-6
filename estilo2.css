@@ -1,0 +1,12 @@
+/* Restante do seu CSS */
+
+/* Menu de navegação vertical */
+nav {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Menu de navegação horizontal */
+nav.horizontal {
+    display: flex;
+}

@@ -1,0 +1,13 @@
+/* Cores com variáveis */
+:root {
+    --cor-primaria: #e74c3c;
+    --cor-secundaria: #f39c12;
+    --cor-texto: #fff;
+}
+
+body {
+    background-color: var(--cor-primaria);
+    color: var(--cor-texto);
+}
+
+/* Restante do seu CSS */
